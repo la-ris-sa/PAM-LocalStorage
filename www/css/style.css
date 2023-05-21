@@ -22,7 +22,6 @@ main{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    /*background-image: radial-gradient(#bcc4bc, #b2dbb2, #bcc4bc);*/
     background-color: #bcc4bc;
     border-radius: 50px;
     border: 1px solid #36974e;
